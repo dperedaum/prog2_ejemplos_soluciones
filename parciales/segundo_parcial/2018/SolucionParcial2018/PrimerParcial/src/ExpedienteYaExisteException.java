@@ -1,0 +1,2 @@
+class ExpedienteYaExisteException extends Throwable {
+}

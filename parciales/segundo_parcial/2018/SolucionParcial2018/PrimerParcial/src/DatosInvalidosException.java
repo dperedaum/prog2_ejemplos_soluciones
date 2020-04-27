@@ -1,0 +1,2 @@
+class DatosInvalidosException extends Throwable {
+}
